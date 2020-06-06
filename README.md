@@ -1,4 +1,5 @@
 # NotesApp_30DoK
+
 First Kotlin Project!
 
 A simple note taking app with splash screen which lets users enter a note and reference and view it on a textView.
